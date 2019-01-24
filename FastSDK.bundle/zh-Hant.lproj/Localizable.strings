@@ -1,0 +1,721 @@
+/* 
+  Localizable.strings
+  FASTSDK
+
+  Created by jiangcj on 17/4/7.
+  Copyright © 2017年 陈伯伦. All rights reserved.
+*/
+
+//G2.1
+"kIntroduction" = "簡介";
+"kIntroduction-introduction" = "直播簡介";
+"kIntroduction-schedule" = "直播安排";
+"kIntroduction-speaker" = "演講者";
+
+"G-LiveImage" = "直播状态-播放中";
+
+"G-LiveRoom" = "直播間";
+"G-Live" = "直播";
+"G-reLive" = "點播";
+"G-Domain" = "域名";
+"G-LiveNum" = "直播編號";
+"G-ListLogin" = "登錄直播間";
+"G-Edit" = "編輯";
+"G-Share" = "分享";
+"G-Subject" = "主題";
+"G-Shure" = "確定";
+"G-SetPSW" = "設置觀看口令";
+
+"G-SetSubject" = "修改主题";
+"G-TopFresh" = "上拉刷新";
+"G-Freshing" = "正在加载";
+"G-LoosonFresh" = "鬆開刷新";
+"G-CreateLive" = "創建直播";
+"G-All" = "全部";
+"G-isLive" = "正在直播";
+"G-StartFresh" = "鬆開立即刷新";
+"G-ListFreshing" = "正在更新列表";
+"G-NoLive" = "親，露個臉唄~";
+"G-NoRoom" = "親，建個直播唄~";
+"G-NoreLive" = "親，給個回放唄~";
+"G-SetPassword" = "修改密碼";
+"G-SetNick" = "修改暱稱";
+"G-Account" = "賬戶中心";
+"G-Clean" = "清除緩存";
+"G-LogOut" = "退出登錄";
+"G-Cleaned" = "緩存已清除";
+"G-ShureQuit" = "確定退出登錄？";
+"G-DifferentPSW" = "兩次輸入的密碼不一樣";
+"G-PSWSuccess" = "修改成功";
+"G-TimeOut" = "登錄超時，請稍後再試";
+
+"G-ConnectFailed" = "連接失敗，請稍後再試";
+"G-isNull" = "用戶名不存在";
+"G-userRoleError" = "抱歉，直播間只允許組織者或教師身份登錄";
+"G-PasswordError" = "密碼錯誤，請重新輸入";
+"G-UserNameNull" = "用戶名不能為空";
+"G-SubjectNull" = "主題不能為空";
+"G-reSubject" = "主题不能重複";
+"G-DataFaield" = "數據提交失敗，請重試";
+"G-NeedRelogin" = "連接失效，請重新登錄";
+"G-HadLogined" = "該賬號已在另一台手機上登錄！";
+"G-reInput" = "站點錯誤，請重新輸入！";
+"G-reLogin" = "站點錯誤，請重新登錄！";
+"G-reConnect" = "連接失敗，請稍後再試";
+"G-PasswordNum" = "只支持6-8位數字";
+"G-ErrorPassword" = "口令輸入與要求不符，請重新輸入";
+"G-SubjectPlace" = "寫個標題更吸引人";
+"G-VideoV" = "純視頻豎屏";
+"G-VideoH" = "純視頻橫屏";
+"G-LaterPublish" = "稍後發佈";
+"G-Copied" = "已複製到剪切板";
+//分享/成就
+"G-Achievement-title" = "您的直播真精彩！";
+"G-Achievement-next" = "期待您的下次表現";
+"G-Achievement-number" = "參與人數";
+"G-Achievement-time" = "直播時長";
+"G-Achievement-share" = "分享到";
+"G-Achievement-close" = "關閉";
+"G-Achievement-weChat" = "未安裝微信客戶端";
+"G-Achievement-QQ" = "未安裝QQ客戶端";
+"G-Achievement-register" = "App未註冊";
+"G-Achievement-paramaError" = "參數發送錯誤";
+"G-Achievement-API" = "API介面不支援";
+"G-Achievement-sendFailed" = "發送失敗";
+"G-Achievement-text" = "空間分享不支持純文字分享，請使用圖文分享";
+"G-Achievement-image" = "空間分享不支持純圖片分享，請使用圖文分享";
+
+
+
+
+
+"kNetworkError" =  "網絡錯誤，請檢查網絡連接";
+
+"kTimeOut"="網絡連接超時，請稍後再試";
+"kIKnow" = "我知道了";
+
+"kNumberPlaceHolder" = "8位數字的直播編號";
+
+"kWrongDomainTip" = "請輸入正確的域名地址";
+
+"kWrongNumberTip" = "直播編號不匹配";
+
+"kWebLaunchTip" = "錯誤的用戶信息，請嘗試通過網頁鏈接啟動";
+
+"Mobile_device_not_supported" = "不支持移動端";
+
+"kliveBroadcastExpired"="直播已過期";
+
+"qcfe"="該二維碼格式錯誤";
+
+"nqcaftp"="該圖片無二維碼";
+
+
+"kUnknownError" = "未知錯誤";
+
+"WebcastIDNotFound" =  "WebcastID找不到";
+"WebcastIDInvalid" =  "WebcastID无效";
+
+"kWrongPWDTip" =  "口令錯誤，請重新輸入";
+"kWrongPWD" =  "用戶名或密碼錯誤，請重新輸入";
+"kLockedTip" =  "當前房間已經鎖定，您無法加入直播!";
+
+"kHostExistTip" = "該角色已存在，您無法再次加入！";
+
+"kFull" = "當前房間人數已滿，您無法加入直播！";
+
+"kTimedout" = "加入超時";
+
+"kWrongAudioCode" =  "音頻編碼不匹配";
+
+"kUserName" = "用戶名";
+
+"kNickName" = "暱稱";
+
+
+"kPassword" = "口令";
+
+"kDomainPlaceHolder" = "域名，如demo.gensee.com";
+
+
+"kIPBanned" = "抱歉，您的ip已被封禁";
+"kIPBannedchange" = "抱歉，您無權進入該活動";
+
+
+
+
+"kMicClose" = "語音已關閉";
+"kMicOpen" = "語音已開啟";
+"kChatEmpty" = "內容為空，請輸入後再發送";
+
+"kDoc" = "文檔";
+
+"kVideo" = "視頻";
+"wwrs"="直播即將恢復";
+"wwps"="直播即將暫停";
+"kChat" = "聊天";
+
+
+"live_begin"="直播開始了";
+
+
+"kQa" = "問答";
+
+"kIntroduction" = "簡介";
+
+"kSwitch" = "切換";
+
+"kNetworkOptimize" = "優選網絡";
+
+
+
+
+
+
+
+"kAbout" = "關於我們";
+
+"kSendError" = "故障報告";
+"kSet" = "設置";
+"start_hardware_decoder" = "啟動硬件編碼";
+
+"kQuitAlert" = "確定退出直播？";
+"kQuitVodAlert" = "確定結束点播吗？";
+
+"kCloseAlert" = "確定結束直播？";
+
+
+"kOK" = "確定";
+
+"kCancel" = "取消";
+
+"No network available"="當前無可選網絡";
+
+
+"kStop" = "未開始";
+"kStart" = "播放中";
+"kPause" = "已暫停";
+
+"kStartTip" = "直播已開始";
+"kStopTip" = "直播已結束";
+"kPauseTip" = "已暫停";
+"kPauseTip_FAST" = "休息一下吧~";
+
+
+"kClosed" = "本次直播已結束，謝謝觀看";
+"kEjected" = "抱歉，您已被踢出";
+"kLeaveTimeout" = "直播時間已過，點擊確定退出程序！";
+
+
+"kAllowChat" = "房間現在允許聊天";
+"kDisallowChat" = "房間現在禁止聊天";
+"kDisallowQa1" = "禁止提問";
+"kAllowQa" = "允許提問";
+
+
+"kNoVideo" = "暫無視頻";
+
+"kNoWifiTip" = "檢測到您未開啟wifi，您正在使用數據流量，確定在當前網絡下觀看嗎?";
+"kQuit" = "退出";
+"kContinue" = "繼續";
+
+"closeGlive"="結束";
+"continueGlive"="繼續";
+
+
+
+"kSysInfo" = "系統消息";
+"kMe" = "我";
+
+"kLottery" = "抽獎咯";
+"kLotteryPause" = "抽獎中止";
+"kLotteryName" = "中獎名單";
+"kLotteryPauseTip" = "哎喲，本次抽獎被終止";
+
+"kNetworkOption" = "優選網絡";
+"kOpenVideo" = "打開視頻";
+"kCloseVideo" = "關閉視頻";
+"kShare" = "分享";
+
+"kSina" = "新浪微博";
+
+"kPYQ" = "朋友圈";
+
+"kWechat" = "微信";
+
+"kCopyLink" = "複製鏈接";
+
+
+
+"kCallEnd" = "点名结束";
+"kCallBegin"= "开始点名咯";
+
+"kChatNetworkError" = "網絡鏈接已斷開...";
+"Cannot_upload_files_due_to_network_disconnection"="網絡連接已斷開，文檔無法上傳";
+"Failed_to_upload_files"="文檔上傳失敗";
+
+
+
+
+"kRollCallEnd" = "點名已結束";
+
+"Chat disabled. Message not sent."="當前禁止聊天，您的資訊發送失敗";
+
+
+//login
+"The_event_has_not_yet_started_please_try_again_later"="活動尚未開始，請稍後再嘗試進入";
+
+"Video&Doc"="視頻檔案";
+
+
+
+"Video definition"="視頻清晰度";
+
+
+
+
+
+
+
+
+
+
+
+"login_watch" = "觀看";
+"login_Release" = "發佈";
+
+"Start_live" = "開始直播";
+
+"Cannot_access_your_microphone"="檢測到當前無法打開語音，可能是由於手機錄音權限被禁用所致，建議去手機應用權限管理中心查看確認";
+
+"Your_audio_and_video_is_currently_temporarily_retained_no_longer_open_to_open"="當前您的音視頻仍在播放中，關閉后便不可再開啟";
+
+
+//role
+"Sorry_you_have_changed_from_the_organizer_to_the_guest_Pay_attention_to_change"="抱歉，您已由組織者變為嘉賓！注意權限變更";
+"Sorry_you_have_changed"="抱歉，您已由組織者變為嘉賓！注意權限變更";
+"Sorry_you_organizer_has_been_transferred_Please_rejoin"="抱歉，您的組織者許可權已轉移，請重新加入";
+
+
+
+//video
+"Resume_live"="恢復直播";
+"Activity restores"="直播即將恢復";
+"Activity pauses"="現在暫停直播";
+"Pause_live"="暫停直播";
+"Flashlight"="開閃光燈";
+"CloseFlashlight"="關閃光燈";
+
+
+//chat
+"You_receive_a_private_message_please_check"="收到私聊消息，請及時查看";
+"Offline"="[離線]";
+
+"Fail_to_send_quiz_answers"="答題卡提交失敗";
+"Fail_to_send_test_answers"="問卷提交失敗";
+
+
+
+
+
+
+
+//sign
+
+"sign_in"="簽到";
+
+
+//LogTipsView
+"The_errorReport_Sent_Success"="故障報告發送成功";
+"The_errorReport_Sent_Failed"="故障報告發送失敗";
+"TheerrorReport_Sending"="故障報告發送中...";
+
+//QRShare
+"Scan_Code_Sharing"="掃碼分享";
+"Invite_Friends_Share_To_TA"="邀請好友掃一掃分享給TA";
+
+//CardView
+"Part_of_the_question_please_pay_attention_to_PPT_or_teacher_language_description"="題幹部分請留意PPT或者老師語言描述";
+"SubmitAndClose"="提交并關閉";
+
+"Congratulations_passed_the_test"="恭喜您，通過了測試";
+"Don’t_be_discouraged_continue"="不要灰心，再接再厲";
+"Answer_sheet"="答題卡";
+
+
+"The_teacher’s_answer"="老師的答案";
+"My_answer"="我的答案";
+"A_total_of"="共有";
+"people_to_answer"="人作答";
+"people"="人";
+
+//vote
+"single_selection"="單選";
+"Multiselect"="多選";
+"document"="文檔";
+"vote_qa"="問答";
+"number_of_entries"="參加人數";
+"people"="人";
+"You_did_great"="您表現得棒極了";
+"Congratulations_you_passed"="恭喜您，通過了";
+"Currently_is_a_mandatory_vote_please_complete_and_then_submit_oh"="當前是強制投票,請先完成再提交哦";
+"this_investigation_is_no_skip_please_try"="此問卷不能跳過,請努力完成吧";
+
+
+"kSubmit" = "提交";
+"kSubmitted" = "已提交";
+
+"SubmitAndClose"="提交并關閉";
+
+"Dont_be_discouraged_make_persistent_efforts"="不要灰心，再接再厲";
+
+"kQuestion"="還有題目沒有作答！";
+
+"kForceQuestion"="還有投票未完成，請先完成";
+
+"haveNoFinishAll"="您還未完成所有題目，請先完成";
+
+"iHadKnow"="我知道了";
+
+"kMychat"="只看我的聊天";
+
+"kRollCallStart" = "點名開始咯";
+
+//qa
+"Content_is_empty_please_enter_the_post_to_send"="內容為空，請輸入後再發送";
+"What_are_the_modes_of_online_education"="在線教育有哪些模式";
+"replying"="回復中";
+
+
+
+"Just_look_at_my_question_and_answer"="只看我的問答";
+"Answer_your_questions"="回答了你的提問";
+"experts_answer_questions"="專家為你答疑解惑";
+
+"qa_answer_me"="回答 我";
+"qa_answer"="回答";
+"qa_me_ask"="我 問";
+"qa_ask"="問";
+"qa_me"="我";
+
+"qa_Add_voice_reply_list"="已加入語音回復列表";
+"qa_Voice_response"="語音回復中";
+"qa_Voice_reply"="語音已回復";
+"Answer_your_questions"="回答了你的提問";
+
+"kHostJoinFailed" = "抱歉，G直播暫不支持嘉賓使用觀看，請您以普通參加者的身分加入。";
+//doc
+"NoDocument"="沒有文檔";
+"Go_and_look_elsewhere"="去别处看看 !";
+"Is_trying_to_load"="正在努力加載...";
+
+"Please_choose_a_picture_upload"= "请选择一张上传图片";
+
+"deleted_doc"="刪除";
+"had_Choosed"="已選擇";
+"number_doc"="個文檔";
+
+
+//KeyBroadView
+"Forbidden_to_ask"="禁止提問";
+"allForbidden_to_ask"="全员禁言";
+"Send_out"="發送";
+
+
+
+//about
+"Already_the_latest_version"="已經是最新的版本";
+"Detection_update"="檢測更新";
+"Share_to_friends"="分享給好友";
+
+
+"kChatTooQuick" = "發言太快了~先休息下";
+
+
+"kScanCodeTip" =  "將二維碼置於框內，即可自動掃描";
+
+
+
+
+
+
+"number_new_messages" = "條新消息";
+
+"kChatTipPre" = "您收到";
+
+"kChatTipEnd" = "的私聊消息";
+
+
+"kdui" = "對";
+"kShuo" = "說";
+
+"kPrivateChatTitlePre" = "正在和";
+"kPrivateChatTitleEnd" = "私聊";
+
+
+
+"kShareContent" = "隨時隨地，觀看直播";
+
+"kShareMessage" = "正在直播，快來圍觀";
+
+
+"kVersionTip" = "當前版本過低，請先升級再使用";
+
+"kWebinvalid" = "頁面已超時失效或者直播已經結束！請返回加入頁面重新輸入口令！";
+
+"kASing" = "當前正在桌面共享中，您的直播視頻暫時無法進行發佈。";
+"kAEnd" = "桌面共享時不能發佈直播視頻，確定結束桌面共享嗎？";
+"kAStip" = "正在桌面共享中";
+"deskShareOver"="结束";
+
+"kASendtip" = "桌面共享已結束，直播視頻正在發佈";
+
+//
+/* Class = "UINavigationItem"; title = "G直播"; ObjectID = "CCO-O9-Qnf"; */
+"CCO-O9-Qnf.title" = "G直播";
+
+
+
+/* Class = "UILabel"; normalTitle = "URL鏈接"; ObjectID = ; */
+"URL.normalTitle" = "URL鏈接";
+/* Class = "UIButton"; normalTitle = "進入直播"; ObjectID = "IeQ-qL-tzZ"; */
+"IeQ-qL-tzZ.normalTitle" = "進入直播";
+
+/* Class = "UIViewController"; title = "關於我們"; ObjectID = "LAe-3f-8sG"; */
+"LAe-3f-8sG.title" = "關於我們";
+
+/* Class = "UITextField"; placeholder = "域名，如demo.gensee.com"; ObjectID = "Nca-1Y-Mv8"; */
+"Nca-1Y-Mv8.placeholder" = "域名，如demo.gensee.com";
+
+/* Class = "UIButton"; normalTitle = "切換為文字輸入"; ObjectID = "Oy2-qK-NAF"; */
+"Oy2-qK-NAF.normalTitle" = "切換為文字輸入";
+
+/* Class = "UITextField"; placeholder = "暱稱"; ObjectID = "aBk-Q7-2ty"; */
+"aBk-Q7-2ty.placeholder" = "暱稱";
+
+/* Class = "UITextField"; placeholder = "8位數字的直播編號"; ObjectID = "jf2-Ei-qMu"; */
+"jf2-Ei-qMu.placeholder" = "8位數字的直播編號";
+
+/* Class = "UIButton"; normalTitle = "立即觀看"; ObjectID = "n6U-2K-AzV"; */
+"n6U-2K-AzV.normalTitle" = "立即觀看";
+
+/* Class = "UIButton"; normalTitle = "掃碼進入直播"; ObjectID = "pI5-dH-DZ9"; */
+"pI5-dH-DZ9.normalTitle" = "掃碼進入直播";
+
+/* Class = "UILabel"; text = "G直播 V1.2"; ObjectID = "rSj-HD-gDV"; */
+"rSj-HD-gDV.text" = "G直播 V1.2";
+
+/* Class = "UINavigationItem"; title = "G直播"; ObjectID = "s3u-yw-gUx"; */
+"s3u-yw-gUx.title" = "G直播";
+
+/* Class = "UITextField"; placeholder = "口令"; ObjectID = "x9r-zT-6HE"; */
+"x9r-zT-6HE.placeholder" = "口令";
+"VideoDefinitionHD"="高清";
+"VideoDefinitionSD"="標清";
+"PublishedLive"="發佈直播";
+"Watch live"="觀看直播";
+"Live Setting"="直播設定 >";
+"Live Setting2"="直播模式";
+"LiveVideoTypeDoc"="視頻檔案模式";
+"LiveVideoType"="純視頻模式";
+"LiveVideoType2"="純視頻豎屏";
+"Save"="保存";
+
+"MJRefreshHeaderIdleText" = "下拉可以重繪";
+"MJRefreshHeaderPullingText" = "鬆開立即重繪";
+"MJRefreshHeaderRefreshingText" = "正在重繪數據中…";
+
+"MJRefreshAutoFooterIdleText" = "點擊或上拉加載更多";
+"MJRefreshAutoFooterNoMoreDataText" ="已經全部加載完畢";
+
+"MJRefreshBackFooterIdleText" = "上拉可以加载更多";
+"MJRefreshBackFooterPullingText" = "鬆開立即加載更多";
+"MJRefreshBackFooterRefreshingText" ="正在加載更多的數據…";
+"MJRefreshBackFooterNoMoreDataText" = "鬆開立即加載更多";
+"Last update"="最後更新";
+"ktoday"="今天";
+"Last update: no record"="最後更新：無記錄";
+"kUserName" = "用戶名";
+
+"kPassword" = "口令";
+"KLogin"="登錄";
+"KLogin password"="登入密碼";
+
+
+"KOld password"="請輸入當前密碼";
+"KNew password"="請輸入6-16位新密碼";
+"KReNew password"="再次輸入新密碼";
+
+
+"softEncode"="軟編";
+"hardEncode"="硬編";
+"hardEncodeTitle"="啟動硬件編碼";
+"hardEncodeTip"="使用硬件編碼可提升直播性能";
+
+
+
+
+
+
+
+//pic
+
+"publish_Slo_mo"="慢動作";
+"publish_Recently_Added"="最近添加";
+"publish_Favorites"="最愛";
+
+
+"publish_Recently_Deleted"="最近刪除";
+"publish_Videos"="視頻";
+"publish_All_Photos"="所有照片";
+
+"publish_Selfies"="自拍";
+"publish_Screenshots"="屏幕快照";
+"publish_Camera_Roll"="相機膠捲";
+"publish_Panoramas"="全景照片";
+
+
+
+"Login_Too_Frequently"="登录太频繁，请重启app";
+"kupload"="上傳";
+"Up to 1 pictures can be selected"="最多只能選擇1張圖片";
+"Please_choose_a_picture_upload"= "請選擇一張上傳圖片";
+"No_documents_for_the_time_being"="暫無文檔";
+
+"You_can_add_doc_by_the_top_right_button"="您可以通過右上角按鈕添加";
+
+
+
+"Page Jump"="跳轉頁碼";
+"Photo"="照片";
+"Change Doc"="更換檔案";
+"pictures"="拍照";
+"album"="相册";
+"ignore"="忽略";
+
+"error_reporting"="錯誤報告";
+/* Class = "UILabel"; text = "在“设置-隐私-图片”中开启口即可查看"; ObjectID = "EUf-A1-0Gx"; */
+"EUf-A1-0Gx.text" = "在“設定-隱私-圖片”中開啟后即可查看";
+
+/* Class = "UILabel"; text = "此应用程序没有权限访问您的照片"; ObjectID = "Jtp-nA-j6e"; */
+"Jtp-nA-j6e.text" = "此應用程序沒有許可權訪問您的照片";
+
+/* Class = "UIButton"; normalTitle = "前往设置"; ObjectID = "ZfR-jB-I7g"; */
+"ZfR-jB-I7g.normalTitle" = "前往設定";
+"Detected_a_program_terminated_unexpectedly_whether_to_send_an_error_report"="檢測到程式意外終止，是否發送錯誤報告";
+
+
+
+
+
+
+
+
+
+
+
+
+
+//hongbao
+"hongbao_record"="紅包記錄";
+"You_haven't_received_a_red_envelope"="您還沒有收到紅包哦～";
+"Received_red_envelope"="收到紅包";
+"Sent_a_red_envelope"="發了一個紅包";
+
+"Has_been_transferred_to_your_total"="已轉入您的總額";
+
+"Look_at_everyone_Luck_hand"="看看大家手氣>";
+"The_red_packets_have_been_robbed"="紅包已搶完";
+"You_are_0.1_meters_away_from_the_red_envelope"="您離紅包就差0.1米的距離!";
+"who_red_envelope"="的紅包";
+
+"All_received_red_envelope"="共收到";
+"Receive_a_red_envelope"="收到紅包";
+"Best_of_luck"="手氣最佳";
+
+"The_network_connection_has_been_disconnected_please_try_again"="網絡連接已斷開，請稍後再試";
+
+"get_hongbao_data_failed_please_try_again"="獲取數據失敗，請稍後再試";
+
+
+
+"comformHongBao"="來自";
+
+"Hong_bao_have_expired"="紅包已過期";
+"Next_time_I_wish_you_good_luck"="下次再來，祝您好運!";
+"Congratulation_wish_you_good_fortune_and_every_success"="恭喜发财，大吉大利";
+
+
+"My_red_envelope"="我的紅包";
+
+"drew_the_red_packet"=" 領取紅包";
+
+"receives_a_red_packet_as_a_reward"="表現優異，恭喜收到紅包獎勵";
+"Webcast not started"="直播還未開始";
+"Enable beautifying"="開美顏";
+"Disable beautifying"="關美顏";
+//----
+
+
+"Unable_to_get_camera_data_please_open_the_Glive_camera_permissions"="無法獲取攝像頭數據，請在手機應用權限管理中心打開G直播的攝像頭權限";
+
+
+
+"Connecting to network. Please wait..." = "網絡連接中，請稍後…";
+
+
+
+
+
+
+
+//share
+
+"QQ_client_needed"="未安装QQ客户端";
+"QQ_registration_required_App"="未註冊";
+"Sending_param_error"="發送參數錯誤";
+"QQ_not_installed"="未安装QQ";
+"API_port_not_supported"="API接口不支持";
+
+"Failed_to_send"="發送失敗";
+"Text_cannot_be_shared_in_the_qq_zone"="空間分享不支持純文本分享，請使用圖文分享";
+"pureimage_cannot_be_shared_in_the_qq_zone"="空間分享不支持純图片分享，請使用圖文分享";
+
+"Wechat_client_not_installed "="未安裝微信客戶端";
+"Weibo_client_not_installed"="未安裝微博客戶端";
+
+//PortraitChat
+"Do_you_want_to_mute_him"="確定將此人禁言？";
+"is_mute"="被禁言了";
+"is_able_to_talk"="可以發言了";
+"Do_you_want_to_remove_him"="確定將此人踢出？";
+"is_removed_by_the_admin"="被管理員請出了直播間";
+
+
+
+
+//vod
+"Network_requests_failed"="網絡請求失敗";
+"Wrong_on_demand_webcast_id"="點播id不正確";
+"Non_existent_on_demand_webcast"="點播不存在";
+"Wrong_password"="口令錯誤";
+"Wrong_username_or_password"="用戶名或密碼錯誤";
+"Web_only"="只支持web";
+"Unavailable_on_demand_webcast"="點播件不可用";
+"internal_problem"="內部問題";
+"Useless_address"="無效地址";
+"Overdue_on-demand_webcast"=" 點播過期";
+"Inadequate_authority"="授權不夠";
+"Failed_to_initialize"="下載初始化失敗";
+"vod_error"="错误";
+"concurrent_connect_number_full"="并发数满";
+
+
+//other
+"need_reboot_app"="出錯啦，請重啓App";
+
+
+//keybroad_send
+
+"keybroad_send"="發送";
+

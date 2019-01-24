@@ -1,0 +1,734 @@
+/* 
+  Localizable.strings
+  FASTSDK
+
+  Created by jiangcj on 17/4/7.
+  Copyright © 2017年 陈伯伦. All rights reserved.
+ 00
+*/
+//G2.1
+"kIntroduction" = "Introduction";
+"kIntroduction-introduction" = "Webcast introduction";
+"kIntroduction-schedule" = "Webcast schedule";
+"kIntroduction-speaker" = "Webcast speaker";
+
+"G-LiveImage" = "直播状态-播放中英文";
+
+
+"G-LiveRoom" = "Webcast room";
+"G-Live" = "Webcast";
+"G-reLive" = "On-demand webcast";
+"G-Domain" = "Domain";
+"G-LiveNum" = "webcast number";
+"G-ListLogin" = "Log in";
+"G-Edit" = "Edit";
+"G-Share" = "Share";
+"G-Subject" = "Subject";
+"G-Shure" = "OK";
+"G-SetPSW" = "Set audience password";
+
+"G-SetSubject" = "Edit subject";
+"G-TopFresh" = "Pull up to refresh";
+"G-Freshing" = "Loading";
+"G-LoosonFresh" = "Release to refresh";
+"G-CreateLive" = "Create a webcast";
+"G-All" = "All";
+"G-isLive" = "Playing";
+"G-StartFresh" = "Release to update";
+"G-ListFreshing" = "Updating the list";
+"G-NoLive" = "No on-going webcast";
+"G-NoRoom" = "No webcast yet";
+"G-NoreLive" = "No on-demand webcast";
+"G-SetPassword" = "Edit password";
+"G-SetNick" = "Edit nickname";
+"G-Account" = "Account";
+"G-Clean" = "Clear chache";
+"G-LogOut" = "Log out";
+"G-Cleaned" = "Cache cleared";
+"G-ShureQuit" = "Do you want to log out?";
+"G-DifferentPSW" = "The two passwords conflict.";
+"G-PSWSuccess" = "Change succeeded";
+"G-TimeOut" = "Login time out. Please try later.";
+
+"G-ConnectFailed" = "System error";
+"G-isNull" = "User name doesn\'t exist";
+"G-userRoleError" = "Sorry, but only the organizer or teacher have the access";
+"G-PasswordError" = "Wrong password. Please re-enter.";
+"G-UserNameNull" = "Username required";
+"G-SubjectNull" = "Subject required";
+"G-reSubject" = "Subject already exists.";
+"G-DataFaield" = "Failed to submit data. Please try again.";
+"G-NeedRelogin" = "Fialed to connect. Please log in again.";
+"G-HadLogined" = "This account is logged in on another phone.";
+"G-reInput" = "Wrong site. Please re-enter.";
+"G-reLogin" = "Wrong site. Please log in again.";
+"G-reConnect" = "Connection failed. Please try later.";
+
+"G-PasswordNum" = "Only 6-8 digits permitted";
+"G-ErrorPassword" = "Password not qualified, Please re-enter";
+"G-SubjectPlace" = "Your room calls for a unique name:)";
+"G-VideoV" = "Vertical Video";
+"G-VideoH" = "Horizontal Video";
+"G-LaterPublish" = "Publish later";
+"G-Copied" = "Copied to clipboard";
+//分享/成就
+"G-Achievement-title" = "Excellent performance!";
+"G-Achievement-next" = "Hope to see you again";
+"G-Achievement-number" = "Attendees";
+"G-Achievement-time" = "Duration";
+"G-Achievement-share" = "Share";
+"G-Achievement-close" = "Close";
+"G-Achievement-weChat" = "Wechat client not installed";
+"G-Achievement-QQ" = "QQ client not installed";
+"G-Achievement-register" = "App registration reqiured";
+"G-Achievement-paramaError" = "Sending param error";
+"G-Achievement-API" = "Unsupported API port";
+"G-Achievement-sendFailed" = "Failed to send";
+"G-Achievement-text" = "Text cannot be shared in the qq zone. Please share an image and text at the same time";
+"G-Achievement-image" = "Images cannot be shared in the qq zone. Please share an image and text at the same time";
+
+
+
+
+"kNetworkError" =  "Network Error. Please check your network connection.";
+"kTimeOut"="Timeout in connecting to network. Please try again later.";
+"kIKnow" = "OK";
+
+"kNumberPlaceHolder" = "8-digit ID";
+
+"kWrongDomainTip" = "Please input a valid domain name.";
+
+"kWrongNumberTip" = "The ID seems to be invalid.";
+
+"kWebLaunchTip" = "Wrong user data. Please access with the web link.";
+"Mobile_device_not_supported" = "Mobile device not supported";
+
+"kliveBroadcastExpired"="live expired";
+
+"qcfe"="QR code format error";
+"nqcaftp"="No QR code available for this picture";
+"kUnknownError" = "Unkown Error";
+
+
+"WebcastIDNotFound" =  "WebcastID not find";
+"WebcastIDInvalid" =  "WebcastID invalid";
+
+"kWrongPWDTip" =  "The password in incorrect.";
+"kWrongPWD" =  "User name or password error, please re-enter";
+"kLockedTip" =  "You cannot access as the activity is locked.";
+
+"kHostExistTip" = "This role is unique and already taken.";
+
+"kFull" = "There are too many people in the activity. Please try to join later.";
+
+"kTimedout" = "Timeout in joining";
+
+"kWrongAudioCode" =  "The audio code doesn't match.";
+
+"kNickName" = "Name";
+
+
+"kUserName" = "Username";
+
+"kPassword" = "Password";
+
+"kDomainPlaceHolder" = "Domain name, e.g. demo.gensee.com";
+
+
+"kIPBanned" = "Your IP is banned.";
+"kIPBannedchange" = "Sorry, but you are not authorized to join.";
+
+"kMicClose" = "Audio is off.";
+"kMicOpen" = "Audio is open.";
+"kChatEmpty" = "You cannot send empty messages.";
+
+"kDoc" = "Doc";
+
+"kVideo" = "Video";
+
+"kChat" = "Chat";
+
+"kQa" = "Q&A";
+
+"kIntroduction" = "Introduction";
+
+"kSwitch" = "Switch";
+
+"kNetworkOptimize" = "Network path";
+
+
+
+
+
+"kAbout" = "About";
+
+"kSendError" = "Bug report";
+"kSet" = "Settings";
+
+"start_hardware_decoder" = "Enable hardware encoding";
+
+"kQuitAlert" = "Do you want to exit？";
+"kQuitVodAlert" = "Do you want to exit？";
+
+"kCloseAlert" = "Close？";
+
+"kOK" = "OK";
+
+"kCancel" = "Cancel";
+
+
+"No network available"="No network available";
+
+
+
+
+
+"kStop" = "Not started";
+"kStart" = "Live";
+"kPause" = "Paused";
+
+"kStartTip" = "Starting";
+"kStopTip" = "Ended";
+"kPauseTip" = "Paused";
+"kPauseTip_FAST" = "Have a rest";
+
+//"kClosed" = "Ended";
+"kClosed" = "Activity over. Thank you";
+"kEjected" = "You are removed from the activity.";
+"kLeaveTimeout" = "The activity is overdue. Click 'OK' to exit.";
+
+
+"kAllowChat" = "Chat enabled";
+"kDisallowChat" = "Chat disabled";
+"kAllowQa" = "Q&A enabled";
+"kDisAllowQa" = "Q&A disabled";
+
+"kNoVideo" = "No video";
+
+"kNoWifiTip" = "Your device is consuming data flow and will incur fees. Do you want to continue?";
+"kQuit" = "Exit";
+"kContinue" = "Continue";
+
+"closeGlive"="End";
+"continueGlive"="Continue";
+
+
+
+
+"kSysInfo" = "System info";
+"kMe" = "me";
+
+"kLottery" = "Luchy draw time!";
+"kLotteryPause" = "Draw banned";
+"kLotteryName" = "Winner list";
+"kLotteryPauseTip" = "Oops, the luchy draw is banned.";
+
+"kNetworkOption" = "Network path";
+"kOpenVideo" = "Video On";
+"kCloseVideo" = "Video Off";
+"kShare" = "Share";
+
+"kSina" = "Sina Weibo";
+
+"kPYQ" = "Wechat Moments";
+
+"kWechat" = "Wechat";
+
+"kCopyLink" = "Copy the link";
+
+
+
+"kRollCallStart" = "Roll call time";
+
+
+//login
+
+"The_event_has_not_yet_started_please_try_again_later"="Activity has not started yet. Please join later";
+
+"Video&Doc"="Video&Doc";
+
+
+"Video definition"="Video definition";
+
+
+
+
+//LogTipsView
+
+
+"The_errorReport_Sent_Success"="Bug report sent.";
+"The_errorReport_Sent_Failed"="Failed to send bug report";
+"TheerrorReport_Sending"="Sending bug report...";
+
+//QRShare
+
+
+"Scan_Code_Sharing"="Scan QR code to share";
+"Invite_Friends_Share_To_TA"="Invite friends to scan QR code";
+
+
+
+//CardView
+
+
+"Part_of_the_question_please_pay_attention_to_PPT_or_teacher_language_description"="The quiz content is demonstrated in the files or by the presenter in audio.";
+"SubmitAndClose"="Send and close";
+
+"Congratulations_passed_the_test"="You have passed. Well done!";
+"Don’t_be_discouraged_continue"="Keep trying!";
+"Answer_sheet"="Quiz";
+
+
+"The_teacher’s_answer"="Correct answer";
+"My_answer"="My answer";
+"A_total_of"="";
+"people_to_answer"=" in total";
+"people"="people";
+
+
+
+//vote
+
+
+"single_selection"="Single-choice";
+"Multiselect"="Multi-choice";
+"document"="Doc";
+"vote_qa"="QA";
+"number_of_entries"="Numbner of ttendees";
+"people"="People";
+"You_did_great"="Excellent!";
+"Congratulations_you_passed"="You have passed. Well done!";
+"Currently_is_a_mandatory_vote_please_complete_and_then_submit_oh"="Please finish the compulsory questionnaire and submit.";
+"this_investigation_is_no_skip_please_try"="This investigation can't skip, Please try to finish it";
+
+"kSubmit" = "Send";
+"kSubmitted" = "Sent";
+
+"SubmitAndClose"="Send and close";
+
+"Dont_be_discouraged_make_persistent_efforts"="Keep trying!";
+
+"kQuestion"="There are still questions not answered.";
+
+"kForceQuestion"="There are still questionnaires not finished. Please complete first.";
+
+"haveNoFinishAll"="There are still questions not answered. Please complete first.";
+
+"iHadKnow"="OK";
+
+
+
+"login_watch" = "Watch";
+"login_Release" = "Deliver";
+
+"Start_live" = "Start live";
+
+
+"Cannot_access_your_microphone"="Cannot access your microphone. The record authority may be banned, and you may check  in the settings of the phone.";
+
+
+//role
+"Sorry_you_have_changed_from_the_organizer_to_the_guest_Pay_attention_to_change"="Note: You are now a panelist.";
+
+"Your_audio_and_video_is_currently_temporarily_retained_no_longer_open_to_open"="Your AV devices are still on, and once turned off, can NOT be switched on.";
+
+
+"Sorry_you_have_changed"="Note: You are now a panelist.";
+"Sorry_you_organizer_has_been_transferred_Please_rejoin"="Sorry, but you are not the organizer now. Please re-join.";
+"Your_audio_and_video_is_currently_temporarily_retained_no_longer_open_to_open"="Your AV devices are still on, and once turned off, can NOT be switched on.";
+
+
+
+
+
+
+//video
+"Resume_live"="Continue";
+"Activity restores"="Activity restores";
+"Activity pauses"="Activity pauses";
+"Pause_live"="Pause";
+"Offline"="[Offline]";
+"Flashlight"="Flashlight";
+"CloseFlashlight"="Turn off the flashlight";
+
+//chat
+"You_receive_a_private_message_please_check"="New private chat message";
+
+"Fail_to_send_quiz_answers"="Fail to send quiz answers";
+"Fail_to_send_test_answers"="Fail to send test answers";
+
+
+
+
+
+//sign
+
+"sign_in"="Sign Up";
+
+
+//qa
+
+"Content_is_empty_please_enter_the_post_to_send"="You cannot send empty messages.";
+"What_are_the_modes_of_online_education"="What are online education modes?";
+"replying"="Replying";
+
+"Just_look_at_my_question_and_answer"="Just look at my question";
+"Answer_your_questions"="Answered your questions";
+"experts_answer_questions"="experts answer questions for you";
+
+
+"qa_answer_me"="reply me";
+"qa_answer"="reply";
+"qa_me_ask"="me ask";
+"qa_ask"="ask";
+"qa_me"="me";
+
+"qa_Add_voice_reply_list"="in the waiting list";
+"qa_Voice_response"="repliing";
+"qa_Voice_reply"="replied";
+
+"Answer_your_questions"="replies to your question";
+
+"kDisallowQa1" = "Q&A Disabled";
+
+"kHostJoinFailed" = "Sorry, but you may not join webcast as a panelist in this app. Please re-enter as an ordinary attendee.";
+//doc
+
+"NoDocument"="No doc";
+"Go_and_look_elsewhere"="Try something else.";
+"Is_trying_to_load"="Loading...";
+
+"Please_choose_a_picture_upload"= "Please choose a picture upload";
+
+
+
+
+
+"allForbidden_to_ask"="Chat Disabled";
+"Forbidden_to_ask"="forbid ask";
+"Forbidden_to_ask"="Q&A disabled";
+"Send_out"="Send";
+
+
+"deleted_doc"="Delete";
+
+
+
+//about
+"Already_the_latest_version"="This is the lastest version.";
+"Detection_update"="Check for updates";
+"Share_to_friends"="Share";
+
+
+
+
+//log
+"error_reporting"="error reporting";
+
+"Detected_a_program_terminated_unexpectedly_whether_to_send_an_error_report"="Detected program terminated unexpectedly";
+
+"ignore"="ignore";
+"Send_out"="Send";
+
+
+"kMychat" = "Mine only";
+
+
+
+
+
+
+
+"kCallEnd" = "roll call is over";
+"kCallBegin"= "roll call begin";
+
+
+
+"kRollCallEnd" = "The roll call is over";
+
+
+"kChatNetworkError" = "Network disconnected";
+
+"Chat disabled. Message not sent."="Chat disabled. Message not sent.";
+
+"number_new_messages" = "new message";
+
+"kChatTipPre" = "Private chat from ";
+
+"kChatTipEnd" = "";
+
+"kdui" = ">";
+"kShuo" = "";
+
+"kPrivateChatTitlePre" = "Private chat with ";
+"kPrivateChatTitleEnd" = "";
+
+"kChatTooQuick" = "Too frenquent submission. Please try later.";
+
+"kScanCodeTip" =  "Fit the QR code into the viewfinder";
+
+
+"kShareContent" = "Anywhere, Anytime";
+
+"kShareMessage" = "Come and join us";
+
+"kVersionTip" = "The current version is too old. Please update.";
+
+"kWebinvalid" = "This webpage may be overdue or the activity is over. Please go back to input the password in the join page.";
+
+"kASing" = "Sharing desktop now and cannot publish your video temporarily.";
+"kAEnd" = "The live video cannot be webcasted if the desktop sharing is running. Do you want to end the desktop sharing?";
+"kAStip" = "Sharing desktop now...";
+"deskShareOver"="Over";
+
+"kASendtip" = "Desktop sharing is over and webcast video restored.";
+/* Class = "UINavigationItem"; title = "Gensee Live"; ObjectID = "CCO-O9-Qnf"; */
+"CCO-O9-Qnf.title" = "G-Cast";
+
+/* Class = "UILabel"; normalTitle = "直播编号"; ObjectID = ; */
+
+
+/* Class = "UILabel"; normalTitle = "URL Join"; ObjectID = ; */
+"URL.normalTitle" = "URL";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "IeQ-qL-tzZ"; */
+"IeQ-qL-tzZ.normalTitle" = "Join";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "LAe-3f-8sG"; */
+"LAe-3f-8sG.title" = "About";
+
+/* Class = "UITextField"; placeholder = "Domain name, e.g. demo.gensee.com"; ObjectID = "Nca-1Y-Mv8"; */
+"Nca-1Y-Mv8.placeholder" = "Domain name, e.g. demo.gensee.com";
+
+/* Class = "UIButton"; normalTitle = "Switch to text"; ObjectID = "Oy2-qK-NAF"; */
+"Oy2-qK-NAF.normalTitle" = "Switch to text";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "aBk-Q7-2ty"; */
+"aBk-Q7-2ty.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "8-digit ID"; ObjectID = "jf2-Ei-qMu"; */
+"jf2-Ei-qMu.placeholder" = "8-digit ID";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "n6U-2K-AzV"; */
+"n6U-2K-AzV.normalTitle" = "Go";
+
+/* Class = "UIButton"; normalTitle = "Scan the QR code"; ObjectID = "pI5-dH-DZ9"; */
+"pI5-dH-DZ9.normalTitle" = "Scan the QR code";
+
+/* Class = "UILabel"; text = "Gensee Live V1.2"; ObjectID = "rSj-HD-gDV"; */
+"rSj-HD-gDV.text" = "G-Cast V1.2";
+
+/* Class = "UINavigationItem"; title = "Gensee Live"; ObjectID = "s3u-yw-gUx"; */
+"s3u-yw-gUx.title" = "G-Cast";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "x9r-zT-6HE"; */
+"x9r-zT-6HE.placeholder" = "Password";
+"VideoDefinitionHD"="HD";
+"VideoDefinitionSD"="SD";
+"PublishedLive"="Start live";
+"Watch live"="Watch live";
+"Live Setting"="Live setting >";
+"Live Setting2"="Live setting";
+"LiveVideoTypeDoc"="Video+Doc";
+"LiveVideoType"="Video";
+"LiveVideoType2"="Video+Portrait";
+"Save"="Save";
+"MJRefreshHeaderIdleText "= "Pull down to refresh";
+"MJRefreshHeaderPullingText" = "Release to refresh";
+"MJRefreshHeaderRefreshingText" = "Loading...";
+
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to load more";
+"MJRefreshAutoFooterRefreshingText" = "loading...";
+"MJRefreshAutoFooterNoMoreDataText" = "No more data";
+
+"MJRefreshBackFooterIdleText" = "Pull up to load more";
+"MJRefreshBackFooterPullingText" = "Release to load more";
+"MJRefreshBackFooterRefreshingText" = "Loading...";
+"MJRefreshBackFooterNoMoreDataText" = "No more data";
+"Last update"="Last update";
+"ktoday"="today";
+"Last update: no record"="Last update: no record";
+
+"kUserName" = "user name";
+"KLogin"="Login";
+"KLogin password"="Login password";
+
+
+"KOld password"="Current password";
+"KNew password"="New password with 6-15 digits";
+"KReNew password"="Please input the new password again";
+
+
+"kPassword" = "Password";
+
+"softEncode"="SW encoding";
+"hardEncode"="HW encoding";
+
+"hardEncodeTitle"="Enable hardware encoding";
+"hardEncodeTip"="The performance will be enhanced if hardware encoding is enabled.";
+
+
+
+
+
+
+
+//pic
+
+"publish_Slo_mo"="Slow motion";
+"publish_Recently_Added"="Recently Added";
+"publish_Favorites"="Favorites";
+
+
+
+
+"publish_Recently_Deleted"="Recently Deleted";
+"publish_Videos"="Videos";
+"publish_All_Photos"="All Photos";
+
+"publish_Selfies"="Selfies";
+"publish_Screenshots"="Screenshots";
+"publish_Camera_Roll"="Camera Roll";
+"publish_Panoramas"="Panoramas";
+
+"Login_Too_Frequently"="Login too frequently，Please reboot app";
+"kupload"="upload";
+
+"Up to 1 pictures can be selected"="Only 1 picture can be selected";
+
+
+"Please_choose_a_picture_upload"= "Please choose a picture to upload";
+"No_documents_for_the_time_being"="No document";
+"You_can_add_doc_by_the_top_right_button"="You may add by tapping the upper-right button";
+
+
+
+"Page Jump"="Page Jump";
+"Photo"="Photo";
+"Change Doc"="Change Doc";
+"pictures"="pictures";
+"album"="album";
+"EUf-A1-0Gx.text" = "Go to settings - Privacy – pictures to allow access";
+/* Class = "UILabel"; text = "此应用程序没有权限访问您的照片"; ObjectID = "Jtp-nA-j6e"; */
+"Jtp-nA-j6e.text" = "This application does not have permission to access your photos";
+/* Class = "UIButton"; normalTitle = "前往设置"; ObjectID = "ZfR-jB-I7g"; */
+"ZfR-jB-I7g.normalTitle" = "Go to Settings";
+
+
+
+
+
+
+
+//hongbao
+
+"hongbao_record"="Red packet record";
+"You_haven't_received_a_red_envelope"="No red packet record yet～";
+"Received_red_envelope"="Red packet";
+"Sent_a_red_envelope"="New red packet from";
+
+"Has_been_transferred_to_your_total"="Transferred to your balance";
+
+
+"Look_at_everyone_Luck_hand"="Others’ red packets>";
+
+"The_red_packets_have_been_robbed"="All drawn";
+
+"You_are_0.1_meters_away_from_the_red_envelope"="Be quicker next time.";
+
+"who_red_envelope"="Red packet from";
+
+"All_received_red_envelope"="income";
+"Receive_a_red_envelope"="Red packet";
+"Best_of_luck"="Luckiest";
+
+"The_network_connection_has_been_disconnected_please_try_again"="Disconnected to network. Please try later.";
+
+
+"get_hongbao_data_failed_please_try_again"="Failed to get data. Please try later.";
+
+
+
+"comformHongBao"="from";
+
+"Hong_bao_have_expired"="Expired";
+
+"Next_time_I_wish_you_good_luck"="Good luck next time!";
+"Congratulation_wish_you_good_fortune_and_every_success"="恭喜发财，大吉大利";
+
+
+"My_red_envelope"="My red packet";
+
+"drew_the_red_packet"=" drew the red packet";
+"receives_a_red_packet_as_a_reward"=" receives a red packet as a reward";
+"wwrs"="Webcast will restore soon";
+"live_begin"="live begin";
+
+"wwps"="Webcast will pause soon";
+"Webcast not started"="Webcast not started";
+//--
+
+"Enable beautifying"="Beautify on";
+"Disable beautifying"="Beautify off";
+
+
+
+//net
+"kChatNetworkError" = "Disconnected to network";
+"Cannot_upload_files_due_to_network_disconnection"="Cannot upload files due to network disconnection";
+"Failed_to_upload_files"="Failed to upload files";
+"Unable_to_get_camera_data_please_open_the_Glive_camera_permissions"="Cannot access camera. Please allow in settings of your device.";
+
+"Connecting to network. Please wait..." = "Connecting to network. Please wait...";
+
+
+
+
+//share
+
+"QQ_client_needed"="QQ client needed";
+"QQ_registration_required_App"="QQ registration required App";
+"Sending_param_error"="Sending param error ";
+"QQ_not_installed"="QQ not installed";
+"API_port_not_supported"="API port not supported";
+
+"Failed_to_send"="Failed to send";
+"Text_cannot_be_shared_in_the_qq_zone"="Text cannot be shared in the qq zone. Please share an image and text at the same time ";
+"pureimage_cannot_be_shared_in_the_qq_zone"="Pure Image cannot be shared in the qq zone. Please share an image and text at the same time ";
+
+"Wechat_client_not_installed "="Wechat client not installed ";
+"Weibo_client_not_installed"="Weibo client not installed";
+
+//PortraitChat
+"Do_you_want_to_mute_him"="Do you want to mute him/her?";
+"is_mute"="is mute";
+"is_able_to_talk"="is able to talk";
+"Do_you_want_to_remove_him"="Do you want to remove him/her?";
+"is_removed_by_the_admin"="is removed by the admin";
+
+
+
+//vod
+"Network_requests_failed"="Network requests failed";
+"Wrong_on_demand_webcast_id"="Wrong on-demand webcast id";
+"Non_existent_on_demand_webcast"="Non-existent on-demand webcast ";
+"Wrong_password"="Wrong password";
+"Wrong_username_or_password"="Wrong username or password";
+"Web_only"="Web only";
+"Unavailable_on_demand_webcast"="Unavailable on-demand webcast ";
+"internal_problem"="internal problem";
+"Useless_address"="Useless address";
+"Overdue_on-demand_webcast"="Overdue on-demand webcast ";
+"Inadequate_authority"="Inadequate authority ";
+"Failed_to_initialize"="Failed to initialize";
+"vod_error"="error";
+"concurrent_connect_number_full"="concurrent connect number is full";
+
+
+//other
+"need_reboot_app"="Fatal error， please restart app.";
+
+
+//keybroad_send
+
+"keybroad_send"="send";

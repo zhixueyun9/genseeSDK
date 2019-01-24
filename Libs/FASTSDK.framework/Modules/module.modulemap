@@ -1,0 +1,6 @@
+framework module FASTSDK {
+  umbrella header "FASTSDK.h"
+
+  export *
+  module * { export * }
+}
